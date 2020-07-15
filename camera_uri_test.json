@@ -1,0 +1,13 @@
+{
+  "uri": "rtsps://111.13.66.78:12345/test",
+  "expirationTime": "2022-02-03T16:20:50.52Z",
+  "idleTimeoutSeconds": 30,
+  "protocol": "RTSP",
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "authorizationType": "NONE",
+  "videoCodec": "H264",
+  "audioCodec": "AAC"
+}
